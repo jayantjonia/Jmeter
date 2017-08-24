@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 80FB-8673
+
+ Directory of C:\Users\Teleworld\Desktop\MyProjects
+
+25-Aug-17  01:06 AM    <DIR>          .
+25-Aug-17  01:06 AM    <DIR>          ..
+25-Aug-17  01:06 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  125,466,865,664 bytes free
